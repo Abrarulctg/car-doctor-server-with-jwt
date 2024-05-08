@@ -1,3 +1,6 @@
+
+
+
 // Make api Secure
 // The person who should have
 
@@ -10,5 +13,9 @@
 
 /**
  * 1. jwt : JSON Web Token
- * 2. 
+ * 2. generate a token by using jwt.sign
+ * 3. create api set to cookie. httpOny, secure, sameSite
+ * 4. from client side: asios withCredentials: true
+ * 5. cors setup origin and credentials: true
+ * 5. 
  */
